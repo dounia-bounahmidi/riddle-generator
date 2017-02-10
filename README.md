@@ -1,0 +1,1 @@
+Riddle generator with javascript. 
